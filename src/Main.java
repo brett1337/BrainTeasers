@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Find if there is a cycle in a LinkedList
  */
 
-public class Main {
+class Main {
     public static void main(String[] args) {
         run();
     }
