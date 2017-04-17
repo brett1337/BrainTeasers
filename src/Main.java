@@ -17,7 +17,8 @@ public class Main {
             System.out.print("Missing letter (1)\nMissing integer from 1 to n (2)\nLinkedList Cycle (3)\n");
             Scanner s = new Scanner(System.in);
             String index = s.nextLine();
-            new Teaser(Integer.parseInt(index));
+            Teaser teaser = TeaserPicker.pickTeaser(Integer.parseInt(index));
+            teaser.run();
         }
     }
 }
