@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="111a32c1-325d-476b-b1aa-b2abc2771c6c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MissingIntTeaser.java" afterPath="$PROJECT_DIR$/src/MissingIntTeaser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Teaser.java" afterPath="$PROJECT_DIR$/src/Teaser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TeaserNames.java" afterPath="$PROJECT_DIR$/src/TeaserNames.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TeaserPicker.java" afterPath="$PROJECT_DIR$/src/TeaserPicker.java" />
     </list>
     <ignored path="Brain_Teasers.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -463,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1492464176977</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Refactoring">
+      <created>1492466513393</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1492466513393</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -518,7 +520,8 @@
       <path value="$PROJECT_DIR$/src" />
     </ignored-roots>
     <MESSAGE value="implemented one way to successfully complete the MissingIntTeaser." />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented one way to successfully complete the MissingIntTeaser." />
+    <MESSAGE value="Refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
