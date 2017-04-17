@@ -1,9 +1,10 @@
 /**
  * Created by Brett on 4/10/2017.
+ * Selects the teaser the user selects.
  */
-public class TeaserPicker {
+class TeaserPicker {
 
-    public static Teaser pickTeaser(int index) {
+    static Teaser pickTeaser(int index) {
         Teaser teaser;
         switch (index) {
             case 1:

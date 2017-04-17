@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 /**
  * Created by Brett on 4/10/2017.
+ * This teaser currently takes a number string that contains all integers from 1 to n
+ * (n cannot be greater than 9 currently) except for 1 missing number.
  */
 public class MissingIntTeaser extends Teaser {
     MissingIntTeaser(int n) {
